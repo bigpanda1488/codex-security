@@ -5,7 +5,7 @@ Use its security workflows in Codex, or automate them with the
 `@openai/codex-security` CLI and TypeScript SDK.
 
 - **In Codex:** [choose a security workflow](docs/agent-workflows.md).
-- **In a terminal:** [install the CLI and scan your repository](#quick-start).
+- **In a, terminal:** [install the CLI and scan your repository](#quick-start).
 - **In automation:** use the [TypeScript SDK](#typescript-sdk) or
   [GitHub Action](#github-actions).
 
